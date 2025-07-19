@@ -312,6 +312,8 @@ h1 {
     font-weight: bold;
     font-family: "Segoe UI";
     margin-bottom: 10px;
+    text-align: left;
+    padding-right: 50px;
 }
 
 .foot-ul ul {
